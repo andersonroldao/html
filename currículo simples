@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<link rel="stylesheet" type="text/css" href="./main.css">
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Currículo</title>
+
+</head>
+
+<body>
+
+<header class="nome">
+
+<div id="nome">
+
+<h1>
+
+João Linderburgo de Santos
+
+</h1>
+
+</header>
+
+<hr>
+
+<br/>
+
+</div>
+
+<div id="dados pessoais">
+
+<h4>
+
+Solteiro, 26 anos<br/>
+
+Rua São Lindóia de Mauá, Bairro Jardim das flores<br/>
+
+Cidade Dois Irmãos - SP<br/>
+
+11985324598, 11991857385, joaozinhozl@gmail.com<br/><br/><br/>
+
+</h4>
+
+</div>
+
+<div id="objetivo profissional">
+
+<h3>
+
+Objetivo Profissional<br/>
+
+</h3>
+
+<p>Desenvolver as atividades solicitadas com foco em ganhar conhecimento e somar ao já adquirido no curso de análise de sistemas para adquirir experiência para auxiliar ao crescimento da empresa.</p>
+
+<br/>
+
+</div>
+
+<div id="formacao academica">
+
+<h3>
+
+Formação acadêmica<br/>
+
+</h3>
+
+Análise de Sistemas<br/>
+
+Anhanguera Educacional<br/>
+
+De 06/2019 à 06/2022<br/><br/><br/>
+
+</div>
+
+<div id="experiência profissional">
+
+<h3>
+
+Experiência Profissional<br/>
+
+</h3>
+
+<p>Criando sites na C0de Enterprise no cargo de estagiário no período de 03/2018 à 05/2020 </p>
+
+<br/>
+
+</div>
+
+</body>
+
+</html>
+
+Main.
+
+
+
+body {
+
+background-color: #f5f5f5;
+
+}
+
+.nome {
+
+background-color: #e7e7e7;
+
+} 
